@@ -4,8 +4,8 @@ description: >-
   Hello, I'm Alex Maksimov, a young student and Python developer.
   I like competitive programming and APIs.
   If you'd like to learn more about me, visit my GitHub: ASMaksimov2007
-baseurl: "/blog/"
-url: "ASMaksimov2007.github.io/blog/"
+baseurl: "/blog-backup/"
+url: "ASMaksimov2007.github.io/blog-backup/"
 github_username:  ASMaksimov2007
 permalink: /:title/
 encoding: utf-8
