@@ -10,7 +10,7 @@ In this blog I share my ideas, thoughts, moments and milestones of my life.
 
 My favourite sport is football (soccer) and I also take up volleyball and table tennis.
 
-I think knowing about culture, religion and art is an essential part of our life, so make sure to check out [my Culture page]({{ site.baseurl }}culture/).
+I think knowing about culture, religion and art is an essential part of our life, so make sure to check out [my Culture page]({{ site.baseurl }}/culture/).
 
 I'm also a competitive programmer. [Here's my profile at Codeforces.](https://codeforces.com/profile/HurricaneCoder)
 
