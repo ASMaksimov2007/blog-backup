@@ -1,0 +1,10 @@
+<script>
+  async function load() {
+    const url = 'https://codeforces.com/api/user.info?handles=HurricaneCoder';
+    let obj = await (await fetch(url)).json();
+    console.log(obj);
+    document.getElementById("codeforces").innerHTML = "My Codeforces rating is " + obj["result"][0]["rating"] + ".";
+  }
+  load();
+</script>
+<p id="codeforces"></p>
