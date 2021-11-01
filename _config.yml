@@ -37,6 +37,6 @@ minimal_mistakes_skin: "sunrise"
 #   - vendor/ruby/
 
 include:
-  - _pages/
-  - _includes/
-  - _img/
+  - _pages
+  - _includes
+  - _img
