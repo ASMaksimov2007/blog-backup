@@ -4,4 +4,4 @@ layout: tag
 permalink: /ideas/
 taxonomy: idea
 ---
-This is my ideas page
+I have some cool ideas that are practical, healthy and useful for people. Check them out below.
