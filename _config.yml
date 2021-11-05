@@ -36,6 +36,16 @@ minimal_mistakes_skin: "sunrise"
 #   - vendor/gems/
 #   - vendor/ruby/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+
+
+
 include:
   - _pages
   - _includes
