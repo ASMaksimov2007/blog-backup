@@ -19,8 +19,24 @@ tags: coding life ideas culture
   - [ ] Read all books from my library  
   - [ ] Visit a theatre at least 3 times
 - Coding
-  - Will update soon
+  - [ ] 90 WPM - typing
+  - [ ] 1600 Codeforces rating by the end of 8th grade
+  - [ ] B' or B in Tinkoff while in 9th grade
+  - [ ] 5th or 6th level in SIS
+  - [ ] Keyboard shortcuts in Atom, Windows, Chrome
+  - [ ] Top 50 percent on Russian finals by the end of 10th grade
+  - [ ] Yandex.Algorithm solved (with lectures)
+  - [ ] Informatics - tasks from school (reminder)
+  - [ ] Russian champion - 11th grade
+  - [ ] World champion - university (too long away to think about)
 - School
-  - Will update soon
+  - [ ] Notes for at least 5 main subjects ready
+  - [ ] All exams on 5
+  - [ ] All subjects on 5
+- Life
+  - [ ] New daily regime
+  - [ ] Learning blocks (The Ultimate Technique)
+  - [ ] Learn learning techniques and tips
+  - [ ] Learn to play guitar
 
 The post will be updated in case of adding new points and goals.
