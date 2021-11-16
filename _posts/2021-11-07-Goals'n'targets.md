@@ -14,6 +14,7 @@ tags: coding life ideas culture
   - [ ] Stable 5 get-ups (high bar)
   - [ ] 100 stick spins in 1 minute
   - [ ] Stable full fold
+  - [ ] 2000 m in 7 minutes
 - Culture
   - [ ] Explore classical music
   - [ ] Read all books from my library  
@@ -38,5 +39,7 @@ tags: coding life ideas culture
   - [ ] Learning blocks (The Ultimate Technique)
   - [ ] Learn learning techniques and tips
   - [ ] Learn to play guitar
+  - [ ] Breathing gymnastics
+  - [ ] Cold showers
 
 The post will be updated in case of adding new points and goals.
