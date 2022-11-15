@@ -40,8 +40,8 @@ $\exists$ - существует - некоторые
 
 ### Способы задать множество
 
-1. Перечисление: $\mathbb{N} = \{1, 2, 3, ...\}$, $\mathbb{Z} = \{..., -1, 0, 1, 2, ...\}$, $\varnothing = \{\}$
-2. Характеристика: $\mathbb{Q} = \{\frac{p}{q} \mid p \in \mathbb{Z}, q \in \mathbb{N}\}$
+1. Перечисление: $\mathbb{N} = \\{1, 2, 3, ...\\}$, $\mathbb{Z} = \\{..., -1, 0, 1, 2, ...\\}$, $\varnothing = \\{\\}$
+2. Характеристика: $\mathbb{Q} = \\{\frac{p}{q} \mid p \in \mathbb{Z}, q \in \mathbb{N}\\}$
 
 $\mathbb{A}$ является _подмножеством_ $\mathbb{B} \Leftrightarrow x \in \mathbb{A} \Rightarrow x \in \mathbb{B}$, то есть каждый элемент $\mathbb{A}$ является элементом $\mathbb{B}$. Это записывается как $\mathbb{A} \subset \mathbb{B}$.
 
@@ -54,5 +54,5 @@ $\mathbb{A}$ является _подмножеством_ $\mathbb{B} \Leftrigh
 1. Задайте множество чисел, кратных $14$.
 2. Какой из знаков нужно поставить вместо $\wedge$?
     - $1 \wedge \mathbb{N}$
-    - $\{1\} \wedge \mathbb{N}$
+    - $\\{1\\} \wedge \mathbb{N}$
     - $\mathbb{A} \wedge \mathbb{A}$
