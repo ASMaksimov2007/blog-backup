@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Теорминимум по теорверу
-permalink: /teorver
+permalink: /teorver/
 ---
 
 # Логика высказываний
