@@ -56,3 +56,15 @@ $\mathbb{A}$ является _подмножеством_ $\mathbb{B} \Leftrigh
     - $1 \wedge \mathbb{N}$
     - $\\{1\\} \wedge \mathbb{N}$
     - $\mathbb{A} \wedge \mathbb{A}$
+    - $\mathbb{A} \wedge \\{\mathbb{A}\\}$
+    - $\varnothing \wedge \mathbb{A}$
+    - $\varnothing \wedge \\{\mathbb{A}, \mathbb{B}\\}$
+
+### Операции над множествами
+
+- Объединение: $\mathbb{A} \cup \mathbb{B} = \\{x \mid x \in \mathbb{A}$ или $x \in \mathbb{B}\\}$
+- Пересечение: $\mathbb{A} \cap \mathbb{B} = \\{x \mid x \in \mathbb{A}$ и $x \in \mathbb{B}\\}$
+- Разность: $\mathbb{A} \backslash \mathbb{B} = \\{x \mid x \in \mathbb{A}$ и $x \notin \mathbb{B}\\}$
+- Симметрическая разность: $\mathbb{A} \bigtriangleup \mathbb{B} = (\mathbb{A} \backslash \mathbb{B}) \cup (\mathbb{B} \backslash \mathbb{A})$
+- Декартово произведение: $\mathbb{A} \times \mathbb{B} = \\{(x, y) \mid x \in \mathbb{A}, y \in \mathbb{B}\\}$
+- Множество всех подмножеств: $2^{\mathbb{A}} = \\{\mathbb{B} \mid \mathbb{B} \subset \mathbb{A}\\}$
