@@ -68,3 +68,14 @@ $\mathbb{A}$ является _подмножеством_ $\mathbb{B} \Leftrigh
 - Симметрическая разность: $\mathbb{A} \bigtriangleup \mathbb{B} = (\mathbb{A} \backslash \mathbb{B}) \cup (\mathbb{B} \backslash \mathbb{A})$
 - Декартово произведение: $\mathbb{A} \times \mathbb{B} = \\{(x, y) \mid x \in \mathbb{A}, y \in \mathbb{B}\\}$
 - Множество всех подмножеств: $2^{\mathbb{A}} = \\{\mathbb{B} \mid \mathbb{B} \subset \mathbb{A}\\}$
+
+##### Задание
+
+Поставьте вместо $\wedge$ знак $\subset$, $\supset$ или $=$:
+- $\mathbb{A} \cup \mathbb{B} \wedge \mathbb{A}$
+- $\mathbb{A} \cap \mathbb{B} \wedge \mathbb{A}$
+- $\mathbb{A} \cup \mathbb{B} \wedge \mathbb{A \cap \mathbb{B}}$
+- $\mathbb{A} \cap (\mathbb{B} \backslash \mathbb{C}) \wedge (\mathbb{A} \cap \mathbb{B}) \backslash \mathbb{C}$
+- $\mathbb{A} \cap (\mathbb{B} \backslash \mathbb{C}) \wedge (\mathbb{A} \backslash \mathbb{C}) \cap \mathbb{B}$
+- $\mathbb{A} \cup (\mathbb{B} \backslash \mathbb{C}) \wedge (\mathbb{A} \backslash \mathbb{C}) \cup \mathbb{B}$
+- $\mathbb{A} \backslash (\mathbb{B} \cup \mathbb{C}) \wedge (\mathbb{A} \backslash \mathbb{B}) \backslash \mathbb{C}$
