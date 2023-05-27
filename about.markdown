@@ -16,6 +16,6 @@ I'm also a competitive programmer. [Here's my profile at Codeforces.](https://co
 
 {%- include codeforces.html -%}
 
-And yes, I have [a GitHub profile](https://github.com/ASMaksimov2007).
+And yes, I have [a GitHub profile](https://github.com/maleksware).
 
-![Alex Maksimov's Github](https://github-readme-stats.vercel.app/api?username=ASMaksimov2007&custom_title=Alex's Github Stats&show_icons=true&icon_color=bd5e61&title_color=171512&bg_color=f9b249&text_color=171512&border_radius=10&border_color=d6b57e)
+![Alex Maksimov's Github](https://github-readme-stats.vercel.app/api?username=maleksware&custom_title=Alex's Github Stats&show_icons=true&icon_color=bd5e61&title_color=171512&bg_color=f9b249&text_color=171512&border_radius=10&border_color=d6b57e)
