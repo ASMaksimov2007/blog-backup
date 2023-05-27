@@ -3,10 +3,9 @@ email: maleksware@gmail.com
 description: >-
   Hello, I'm Alex Maksimov, a young student and Python developer.
   I like competitive programming and APIs.
-  If you'd like to learn more about me, visit my GitHub: ASMaksimov2007
-baseurl: "/blog/"
-url: "ASMaksimov2007.github.io/blog/"
-github_username:  ASMaksimov2007
+  If you'd like to learn more about me, visit my GitHub: maleksware
+# url: "maleksware.github.io/blog-backup/"
+github_username:  maleksware
 permalink: /:title/
 encoding: utf-8
 # Build settings
@@ -16,6 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-spaceship
 minimal_mistakes_skin: "sunrise"
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -37,7 +37,17 @@ minimal_mistakes_skin: "sunrise"
 #   - vendor/gems/
 #   - vendor/ruby/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+
+
+
 include:
-  - _pages/
-  - _includes/
-  - _img/
+  - _pages
+  - _includes
+  - _img

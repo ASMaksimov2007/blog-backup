@@ -4,4 +4,4 @@ layout: tag
 permalink: /culture/
 taxonomy: culture
 ---
-This is my culture page
+Wanna know about my cultural interests? Posts below are about religion, philosophy, languages and art.

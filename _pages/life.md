@@ -4,4 +4,4 @@ layout: tag
 permalink: /life/
 taxonomy: life
 ---
-This is my life page
+Here comes a bit of my life. Important milestones can be found here as well.
