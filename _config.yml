@@ -1,11 +1,9 @@
-title: Alex Maksimov's blog
+title: std::stuff
 email: maleksware@gmail.com
 description: >-
-  Hello, I'm Alex Maksimov, a young student and Python developer.
-  I like competitive programming and APIs.
-  If you'd like to learn more about me, visit my GitHub: maleksware
+  Alex's stuff hosting
 # url: "maleksware.github.io/blog-backup/"
-github_username:  maleksware
+github_username: maleksware
 permalink: /:title/
 encoding: utf-8
 # Build settings
@@ -16,7 +14,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-spaceship
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "dark"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

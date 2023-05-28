@@ -1,4 +1,5 @@
 ---
-layout: home
+layout: single
 ---
-Hi, I'm Alex. Check out some posts below or search by tag above. To learn more about me, visit About page.
+
+Hi, I'm Alex. I host single-page stuff here.
