@@ -50,7 +50,7 @@ Follow the installation instructions on the Microsoft Docs: [https://learn.micro
 
 ### Install the Chinese drivers for the programmer
 
-The .rar file is here: [http://www.xgecu.com/MiniPro/minipro_setup685.rar](http://www.xgecu.com/MiniPro/minipro_setup685.rar)
+The .rar file is here: [](http://www.xgecu.com/MiniPro/xgproV1039_setup.rar)
 
 Unpack it and run the file inside (you will have to trust the communists that they haven't put any hammer and sickle viruses in). Follow the instructions of the wizard. Then restart your computer.
 
