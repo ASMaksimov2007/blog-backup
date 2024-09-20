@@ -32,11 +32,11 @@ Restart the shell session (your terminal). You should be now able to run Minipro
 
 # Linux (other distros)
 
-Follow the installation instructions on the Minipro GitHub: [https://gitlab.com/DavidGriffith/minipro/#installation-on-linux]()
+Follow the installation instructions on the Minipro GitHub: [https://gitlab.com/DavidGriffith/minipro/#installation-on-linux](https://gitlab.com/DavidGriffith/minipro/#installation-on-linux)
 
 # PriceyOS (MacOS)
 
-Follow the installation instructions on the Minipro GitHub: [https://gitlab.com/DavidGriffith/minipro/#installation-on-macos]()
+Follow the installation instructions on the Minipro GitHub: [https://gitlab.com/DavidGriffith/minipro/#installation-on-macos](https://gitlab.com/DavidGriffith/minipro/#installation-on-macos)
 
 # Windows
 
@@ -46,11 +46,11 @@ This one is gonna be hard. Minipro is not available for Windows, however, there 
 
 This is a piece of Microsoft software that allows you to run Linux systems within Windows without using a virtual machine (e.g. there is less stuff that can go wrong).
 
-Follow the installation instructions on the Microsoft Docs: [https://learn.microsoft.com/en-us/windows/wsl/install]()
+Follow the installation instructions on the Microsoft Docs: [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 ### Install the Chinese drivers for the programmer
 
-The .rar file is here: [http://www.xgecu.com/MiniPro/minipro_setup685.rar]()
+The .rar file is here: [http://www.xgecu.com/MiniPro/xgproV1039_setup.rar](http://www.xgecu.com/MiniPro/xgproV1039_setup.rar)
 
 Unpack it and run the file inside (you will have to trust the communists that they haven't put any hammer and sickle viruses in). Follow the instructions of the wizard. Then restart your computer.
 
@@ -58,11 +58,11 @@ Unpack it and run the file inside (you will have to trust the communists that th
 
 By default, WSL does not see the USB ports on your computer. However, as the programmer is connected via one of them, you will have to attach them to the WSL session.
 
-Do this: [https://learn.microsoft.com/en-us/windows/wsl/connect-usb#install-the-usbipd-win-project]()
+Do this: [https://learn.microsoft.com/en-us/windows/wsl/connect-usb#install-the-usbipd-win-project](https://learn.microsoft.com/en-us/windows/wsl/connect-usb#install-the-usbipd-win-project)
 
 **NB**: you can't do the next step without the programmer connected to one of your computer ports. If you know what USB 3.0 is, make sure you connect the device to it (as the programmers require high current to operate). A Thunderbolt / USB-C port should also suffice.
 
-Now this (**don't** do step 5): [https://learn.microsoft.com/en-us/windows/wsl/connect-usb#attach-a-usb-device]()
+Now this (**don't** do step 5): [https://learn.microsoft.com/en-us/windows/wsl/connect-usb#attach-a-usb-device](https://learn.microsoft.com/en-us/windows/wsl/connect-usb#attach-a-usb-device)
 
 # Try to run the programmer
 
